@@ -6,6 +6,16 @@ This repository is designed for reproducible execution with Docker and Docker Co
 This is the companion repository for *Deep Learning in Quantitative Finance* (Green, 2026):  
 https://www.wiley.com/en-ae/Deep+Learning+in+Quantitative+Finance-p-9781119685241
 
+## Stable Release
+
+The latest stable version is **v1.0.0**.
+
+👉 Checkout the release:
+git checkout v1.0.0
+
+👉 Or download from:
+https://github.com/greandrew/DeepLearningBookExamples/releases
+
 ## Repository layout
 
 Each chapter folder contains notebooks plus a chapter-local container setup:
